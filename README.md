@@ -57,4 +57,4 @@ Each sub-folder has its own `README.md` with details on every script inside.
 
 ---
 
-⭐ A growing record of "learn by doing" — explore the folders, run the scripts, and tweak them to see what changes!
+⭐ A growing record of "learn by doing" — explore the folders, run the scripts, and tweak them to see what changes!!
